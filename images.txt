@@ -1,9 +1,12 @@
 #nginx
-
+qwenllm/qwen:latest
+qwenllm/qwen:cu121
+qwenllm/qwen:cu117
 texlive/texlive
 ghcr.io/requarks/wiki:2
 gitea/gitea
 postgres:15-alpine
+ubuntu:latest
 mysql:8
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
